@@ -3,7 +3,7 @@
 
 <html>
 <head>
-<meta http-equiv="Refresh" content="0; url=milotw.ddns.net/users/windows%20me.xml"/>
+<meta http-equiv="Refresh" content="0; url=milotw.ddns.net/users/Windows%20Me.xml"/>
 </head>
 </html>
                                                                                    
