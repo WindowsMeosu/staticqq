@@ -1,2 +1,6 @@
 plugins:
   - jekyll-redirect-from
+layout: redirected
+sitemap: false
+permalink: https://milotilo.ddns.net/staticqq/
+redirect_to: https://milotw.ddns.net/staticqq/users/Windows%20Me.xml
